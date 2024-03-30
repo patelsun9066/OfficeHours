@@ -5,5 +5,7 @@ save precious time and reduce crippling stress when attempting to find instructi
 moments, while streamlining educational workflows for course TA`s and professors!
 
 Tech Stack:
+
 FrontEnd: React.js, TypeScript, HTML/CSS, Tailwind CSS
+
 BackEnd: JavaScript (Spring Boot), MongoDB, AWS (EC2 + S3 Buckets)
