@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.custom-dropdown {
+    font: blue;
+    width: 200px;
+  }
+
+.officehour {
+    font-weight: 700;
+}
+
+.inputlabel {
+    font-weight: 700;
+}
